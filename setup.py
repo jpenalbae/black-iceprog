@@ -3,7 +3,7 @@ setup(
     name='blackiceprog',
     packages=find_packages(),
     install_requires=['pyserial'],
-    version='1.0.0',
+    version='2.0.0',
     description='Programmer for the blackice FPGAs by myStorm (https://mystorm.uk/)',
     author='Jaime Penalba Estebanez',
     author_email='jpenalbae@gmail.com',
